@@ -1,0 +1,9 @@
+{
+   "antivirusEngine":{
+      "exclusions":[
+         {
+            "$type":"excludedPath",
+            "isDirectory":false,
+            "path":"/var/log/system.log"
+         }
+}
